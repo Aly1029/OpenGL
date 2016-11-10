@@ -1,0 +1,13 @@
+﻿Build started 10.11.2016 20:13:35.
+     1>Project "C:\Users\Alpha\Documents\GitHub\OpenGL\OpenGL-1\OpenGL-1\OpenGL-1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\glew\include /I"D:\freeglut-2.8.1.tar\freeglut-2.8.1\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt HW.cpp
+         HW.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alpha\Documents\GitHub\OpenGL\OpenGL-1\Debug\OpenGL-1.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\glew\lib\Release\Win32 /LIBPATH:"D:\freeglut-2.8.1.tar\freeglut-2.8.1\lib" glew32.lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Alpha\Documents\GitHub\OpenGL\OpenGL-1\Debug\OpenGL-1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Alpha\Documents\GitHub\OpenGL\OpenGL-1\Debug\OpenGL-1.lib" /MACHINE:X86 Debug\HW.obj
+         OpenGL-1.vcxproj -> C:\Users\Alpha\Documents\GitHub\OpenGL\OpenGL-1\Debug\OpenGL-1.exe
+     1>Done Building Project "C:\Users\Alpha\Documents\GitHub\OpenGL\OpenGL-1\OpenGL-1\OpenGL-1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.61
